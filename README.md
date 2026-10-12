@@ -10,6 +10,8 @@ Actualizacón:
 
 -El programa funciona de forma independiente
 
+-Se añadio la version de linux y windows x32
+
 Estare al pendiente de sacar actualizaciones 
 
 IMPORTANTE: 
